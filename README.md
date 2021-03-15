@@ -1,2 +1,2 @@
 # web-server
-Simple web server written in Rust
+Primitive web server written in Rust for learning purposes
